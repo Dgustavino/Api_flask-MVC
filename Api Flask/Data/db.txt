@@ -1,0 +1,10 @@
+
+{"biblioteca": [  
+                {"nombre_biblio": "Central"}, 
+                {"id_libro": 01},
+                {"nombre_libro":  ["Python", "Java", "C#"]},
+                {"paginas": ["250", "700", "500"]},
+                {"lista_libros": ["Python", "Java", "C#"]}
+]}
+        
+        
